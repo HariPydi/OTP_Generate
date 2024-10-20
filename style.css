@@ -1,0 +1,28 @@
+div{
+    background-color: rgb(94, 94, 117);
+    height: 50vh;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+#btn{
+    padding: 11px 20px;
+    border-radius: 10px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    font-size: 20px;
+
+}
+#btn:hover{
+    color: rgb(232, 239, 231);
+    background-color: #c41111
+    
+}
+#p{
+    color: aqua;
+    font-size: 30px;
+    /* background-color: rgba(207, 224, 208, 0.727); */
+
+}
